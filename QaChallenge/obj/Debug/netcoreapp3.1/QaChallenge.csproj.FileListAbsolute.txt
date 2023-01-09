@@ -1,0 +1,10 @@
+C:\Users\Mihai\source\BT_Challenge\QaChallenge\obj\Debug\netcoreapp3.1\QaChallenge.csproj.AssemblyReference.cache
+C:\Users\Mihai\source\BT_Challenge\QaChallenge\obj\Debug\netcoreapp3.1\QaChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mihai\source\BT_Challenge\QaChallenge\obj\Debug\netcoreapp3.1\QaChallenge.AssemblyInfoInputs.cache
+C:\Users\Mihai\source\BT_Challenge\QaChallenge\obj\Debug\netcoreapp3.1\QaChallenge.AssemblyInfo.cs
+C:\Users\Mihai\source\BT_Challenge\QaChallenge\obj\Debug\netcoreapp3.1\QaChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Mihai\source\BT_Challenge\QaChallenge\bin\Debug\netcoreapp3.1\QaChallenge.deps.json
+C:\Users\Mihai\source\BT_Challenge\QaChallenge\bin\Debug\netcoreapp3.1\QaChallenge.dll
+C:\Users\Mihai\source\BT_Challenge\QaChallenge\bin\Debug\netcoreapp3.1\QaChallenge.pdb
+C:\Users\Mihai\source\BT_Challenge\QaChallenge\obj\Debug\netcoreapp3.1\QaChallenge.dll
+C:\Users\Mihai\source\BT_Challenge\QaChallenge\obj\Debug\netcoreapp3.1\QaChallenge.pdb
